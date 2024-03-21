@@ -6,3 +6,5 @@ I have taken the datasets On Spotify playlist from the Kaggle website. During th
 4) Songs with high energy and danceability
 
 This is what the conclusion I have made through data visualisation which is done on tableau.
+
+![Alt text] (https://public.tableau.com/views/SpotifyAnalysis_17110298597260/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link )
